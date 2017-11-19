@@ -1,0 +1,8 @@
+{
+  "name": "modulekit-languages",
+  "version": "1.0.0",
+  "description": "Language names, language name translations and configuration",
+  "repository": "git@github.com:plepe/modulekit-languages.git",
+  "author": "Stephan Bösch-Plepelits <skunk@xover.mud.at>",
+  "license": "CC-SA-BY-2.0"
+}
