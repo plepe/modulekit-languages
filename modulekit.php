@@ -1,4 +1,4 @@
 <?php
 $id = 'modulekit-languages';
 
-$lang_dirs = array('.');
+$lang_dirs = array('src');
